@@ -5,8 +5,6 @@
  */
 package Tarea2_GraficadorTriangulo;
 
-import Tarea2_GraficadorTriangulo.App.App;
-
 /**
  *
  * @author bruno

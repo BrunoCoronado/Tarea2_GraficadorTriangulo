@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Tarea2_GraficadorTriangulo.App;
+package Tarea2_GraficadorTriangulo;
 
 import java.util.Scanner;
 
