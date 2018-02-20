@@ -15,7 +15,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // instanciamos e iniciamos el programa
         App app = new App();
         app.IngresoDatos();
     }
